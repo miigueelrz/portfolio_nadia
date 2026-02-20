@@ -103,14 +103,15 @@ export function AboutSection({ content, credentials }: AboutSectionProps) {
             transition={{ duration: 0.6, delay: 0.2 }}
             viewport={{ once: true }}
           >
-            <div className="relative aspect-video rounded-[2rem] overflow-hidden shadow-2xl bg-black group">
+            <div className="relative aspect-[9/16] w-full max-w-sm mx-auto rounded-[2rem] overflow-hidden shadow-2xl bg-black group">
               <video
-                src="/videos/videocurriculum.mp4"
+                src="/images/videocv.mp4"
                 poster="/images/nadia-portrait.jpg"
                 controls
+                playsInline
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               >
-                Your browser does not support the video tag.
+                Tu navegador no soporta el elemento de video.
               </video>
             </div>
           </motion.div>

@@ -85,7 +85,7 @@ export const DICTIONARY = {
         title: "Maquillaje Social",
         description: "Realzando tu belleza para eventos inolvidables.",
         projects: [
-          { src: "/images/foto_proyecto_social1.jpeg", alt: "Maquillaje nupcial romántico", title: "Novia Romántica" },
+          { src: "/images/foto_proyecto_social1.jpeg", alt: "Maquillaje nupcial romántico", title: "Maquillaje Social" },
           { src: "/images/foto_proyecto_social2.jpeg", alt: "Maquillaje glamour de noche", title: "Maquillaje de Teatro" },
           { src: "/images/foto_proyecto_social3.jpeg", alt: "Maquillaje corporativo elegante", title: "Invitada de Boda" },
         ],
@@ -122,7 +122,7 @@ export const DICTIONARY = {
     ],
     contact: {
       sectionLabel: "Contacto",
-      title: "Creemos Algo Hermoso Juntas",
+      title: "Creemos Algo Bonito Juntas",
       description: "¿Lista para reservar tu sesión o tienes preguntas sobre mis servicios? Me encantaría saber de ti. Rellena el formulario y te responderé en 24-48 horas.",
       form: { name: "Nombre", namePlaceholder: "Tu nombre", email: "Correo", emailPlaceholder: "tu@email.com", service: "Servicio de Interés", servicePlaceholder: "ej., Maquillaje Nupcial, Sesión Editorial", date: "Fecha Preferida", message: "Mensaje", messagePlaceholder: "Cuéntame tu visión...", submit: "Enviar Mensaje", submitting: "Enviando..." },
       success: { title: "Mensaje enviado correctamente", description: "Te responderé en 24-48 horas." },
@@ -198,7 +198,7 @@ export const DICTIONARY = {
         title: "Social Makeup",
         description: "Enhancing your beauty for unforgettable events.",
         projects: [
-          { src: "/images/foto_proyecto_social1.jpeg", alt: "Romantic bridal makeup", title: "Romantic Bride" },
+          { src: "/images/foto_proyecto_social1.jpeg", alt: "Romantic bridal makeup", title: "Social Makeup" },
           { src: "/images/foto_proyecto_social2.jpeg", alt: "Glamour night makeup", title: "Theater Makeup" },
           { src: "/images/foto_proyecto_social3.jpeg", alt: "Elegant corporate makeup", title: "Wedding Guest" },
         ],
